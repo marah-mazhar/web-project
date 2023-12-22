@@ -1,0 +1,24 @@
+.house1  {
+    position: relative
+    ;
+    float: left;
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.p{
+    padding-top: 10px;
+    font-family: cursive;
+margin-top: 50px;
+font-size: 30px;
+}
+.div1{
+margin-top:20px ;
+margin-left: 10px;
+margin-right: 10px;
+    border: 2px black solid ;
+    overflow: auto;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,49 @@
+.signup{
+    border: 3px solid #eee;
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:60px;
+    padding-top:50px ;
+    padding-left: 50px;
+    border-radius: 20px;
+}
+
+.signup input{
+    width: 80%;
+    height: 30px;
+}
+.signup label{
+    font-size: 20px;
+}
+
+.signup #submit{
+    border-radius: 30px;
+    height:45px ;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 20px;
+    border: none;
+
+}
+
+.signup #submit:hover{
+    opacity: 0.8;
+}
+/* //////////////////////////////////// */
+
+.para{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para a{
+    background-color:#04aa6d ;
+    border: 1px solid #eee;
+    border-radius: 15px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
